@@ -4,11 +4,6 @@ For this question, please attach the script and the screen log as separate files
 ## Scenario
 A customer, who operates a centralized crypto exchange (e.g., Binance) requiring the ability to send multiple transactions in a short period, reports the following issue while testing the Scroll Sepolia testnet ..... (see details from the initial email)
 
-## Task
-Write a script based on the customer’s pseudo code to reproduce the above issue. Include logging to verify whether the nonce remains unchanged after sending a transaction.
-Are you able to reproduce the issue, or does the system works as expected? Note: you do NOT need to fix the issue if it is reproducible.
-Attach both the script and the screen log when replying to this email.
-
 ---
 
 ## My observations based on the log file generated from a script representing the customer's pseudo code: `customer_script.py` > `customer_script.log`
